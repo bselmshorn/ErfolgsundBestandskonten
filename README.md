@@ -1,10 +1,10 @@
 ```markdown
 <!--
-author:   NotebookLM Assistant
-email:    deine-email@beispiel.de
-version:  1.0.0
+author:   Conrad Krödel
+email:    conrad.kroedel@bs-elmshorn.de
+version:  1.1.0
 language: de
-narrator: Deutsch Female
+narrator: Deutsch Male
 comment:  Ein Kurs zum Verständnis von Bestands- und Erfolgskonten.
 -->
 
